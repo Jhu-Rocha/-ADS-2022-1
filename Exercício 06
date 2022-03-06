@@ -1,0 +1,24 @@
+Algoritmo exercício n°06 
+
+Var 
+salfixo, comi, vendas: real 
+
+Início 
+Escreva ("Qual seu salário?") 
+leia (salfixo)
+Escreva ("Quanto você vendeu?")
+leia (vendas) 
+
+comi <- vendas * 0.04 
+
+escreval ("Sua comissão foi de:", comi) 
+escreval ("Seu salário líquido é:" salfixo + comi)
+
+Filmagoritmo 
+
+
+
+
+
+
+
